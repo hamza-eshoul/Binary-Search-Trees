@@ -2,7 +2,7 @@
 
 [![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
 
-This is the repository for Binary Search Trees project built for the [Odin Project](https://www.theodinproject.com/lessons/javascript-binary-search-trees).
+This is the repository for the Binary Search Trees project built for the [Odin Project](https://www.theodinproject.com/lessons/javascript-binary-search-trees).
 
 The project consits of an an implementation of the binary search tree data structure written in JavaScript.
 
